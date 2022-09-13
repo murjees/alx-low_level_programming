@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
 * print_alphabet - Print the alphabet in lowercase.
@@ -16,3 +16,10 @@ void print_alphabet(void)
 		}
 		_putchar('\n');
 }
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+S
